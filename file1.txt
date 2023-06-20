@@ -1,0 +1,2 @@
+information adding to file1
+information adding new line to file1
